@@ -1,2 +1,2 @@
 # JavaSerialAPI
-Java Serial API for Linux and Windows systems.
+Java Serial API for Linux and Windows systems. Currently abandoned.
